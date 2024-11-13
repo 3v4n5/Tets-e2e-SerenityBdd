@@ -1,4 +1,4 @@
-# Proyecto base de Serenity BDD
+# Proyecto Serenity BDD
 
 ### Ejecución de test por línea de comandos
 
